@@ -13,3 +13,7 @@ make
 ```bash
 make run
 ```
+
+## Reference
+
+- [Crafting Interpreters](https://www.craftinginterpreters.com/)
